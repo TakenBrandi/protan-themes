@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.takenbrandi.protanthemes.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.takenbrandi.protanthemes.MyBundle
 
 class MyApplicationService {
 
